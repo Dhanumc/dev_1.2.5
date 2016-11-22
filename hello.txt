@@ -1,3 +1,4 @@
+for
 {
 	for(b=0;b<=200;b++){
 print naresh;
