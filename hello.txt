@@ -1,3 +1,4 @@
+breadth = 20;
 length = 10;
 for(a=0;a<=10;a++)
 {
